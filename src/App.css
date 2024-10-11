@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+.deck {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
